@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keerti J</h1>
-<h3 align="center">I’m a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, passionate about building intelligent, explainable, and real-world impactful systems. I have hands-on experience developing end-to-end ML pipelines across healthcare diagnostics, climate risk prediction, and anomaly detection, with a strong focus on model interpretability using SHAP and deep learning techniques. With 400+ solved DSA problems and active participation in national-level hackathons, I combine strong algorithmic thinking with practical system design. I enjoy transforming research-driven ideas into scalable, production-ready solutions. Currently exploring advanced AI systems, deep learning architectures, and full-stack integrations for deploying intelligent applications.</h3>
+<h3 align="center">
+Artificial Intelligence & Machine Learning enthusiast focused on building reliable, explainable, and scalable intelligent systems.  
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkeerti11&label=Profile%20views&color=0e75b6&style=flat" alt="jkeerti11" /> </p>
 
