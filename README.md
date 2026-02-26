@@ -3,9 +3,9 @@
 Artificial Intelligence & Machine Learning enthusiast focused on building reliable, explainable, and scalable intelligent systems.  
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkeerti11&label=Profile%20views&color=0e75b6&style=flat" alt="jkeerti11" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkeerti11&label=Profile%20views&color=0e75b6&style=flat" alt="jkeerti11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkeerti11" alt="jkeerti11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkeerti11" alt="jkeerti11" /></a> </p> -->
 
 - 🌱 I’m currently learning **an active open source contributor, aspiring AI&ML Engineer, competitive programmer and more**
 
