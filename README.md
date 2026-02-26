@@ -7,9 +7,7 @@ Artificial Intelligence & Machine Learning enthusiast focused on building reliab
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkeerti11" alt="jkeerti11" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development Advanced Data Structures & Algorithms System Design Basics MLOps & Model Deployment Deep Learning Optimization**
-
-- 👯 I’m looking to collaborate on [Explainable AI & Real-World ML Projects (Healthcare, Climate, Security)](https://github.com/JKeerti11)
+- 🌱 I’m currently learning **an active open source contributor, aspiring AI&ML Engineer, competitive programmer and more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JKeerti11](https://github.com/JKeerti11)
 
