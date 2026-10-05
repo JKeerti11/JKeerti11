@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keerti J</h1>
+@Web search <h1 align="center">Hi 👋, I'm Keerti J</h1>
 <h3 align="center">
 Artificial Intelligence & Machine Learning enthusiast focused on building reliable, explainable, and scalable intelligent systems.  
 </h3>
@@ -9,7 +9,7 @@ Artificial Intelligence & Machine Learning enthusiast focused on building reliab
 
 - 🌱 I’m currently learning **an active open source contributor, aspiring AI&ML Engineer, competitive programmer and more**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JKeerti11](https://github.com/JKeerti11)
+- 👨‍💻 All of my projects are available at https://github.com/JKeerti11
 
 - 📫 How to reach me **jkeerti550@gmail.com**
 
@@ -31,3 +31,4 @@ Artificial Intelligence & Machine Learning enthusiast focused on building reliab
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkeerti11&show_icons=true&locale=en" alt="jkeerti11" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkeerti11&" alt="jkeerti11" /></p>
+make my github code even more perfect
